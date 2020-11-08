@@ -24,7 +24,7 @@ h2 {
 
 .menu {
     list-style: none;
-    font-family: cursive;
+    font-family: Agency FB;
     position: fixed;
     top: 10px;
     right: 30px;
@@ -51,6 +51,7 @@ h2 {
 
 a {
     text-decoration: none;
+    text-shadow: 2px 2px gainsbaro;
 }
 
 html {
@@ -95,4 +96,22 @@ img:hover {
 #con {
     font-family: Comic Sans MS, monospace;
     font-size: 20px;
+}
+
+#co {
+    background-color: orange;
+}
+
+.h {
+    font-family: Comic Sans MS, cursive;
+    font-size: 20px;
+}
+
+#co1 {
+    color: black;
+    text-shadow: none;
+}
+
+#co h3 {
+    display: inline;
 }
